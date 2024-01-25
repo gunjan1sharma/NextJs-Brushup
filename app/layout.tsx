@@ -1,3 +1,7 @@
+import '@/app/ui/global.css';
+import { inter, lato } from './lib/fonts';
+
+
 export default function RootLayout({
   children,
 }: {
